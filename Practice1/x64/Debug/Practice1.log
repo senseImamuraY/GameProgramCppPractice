@@ -1,2 +1,5 @@
-﻿  C:\Users\imamu\GameCreate\SDL2-devel-2.26.3-VC\SDL2-2.26.3\lib\x64\SDL2.dll
+﻿  ソース.cpp
+C:\Users\imamu\GameCreate\Practice\CppPractice\GameProgramCppPractice\Practice1\ソース.cpp(6,1): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  Practice1.vcxproj -> C:\Users\imamu\GameCreate\Practice\CppPractice\GameProgramCppPractice\Practice1\x64\Debug\Practice1.exe
+  C:\Users\imamu\GameCreate\SDL2-devel-2.26.3-VC\SDL2-2.26.3\lib\x64\SDL2.dll
   1 個のファイルをコピーしました
