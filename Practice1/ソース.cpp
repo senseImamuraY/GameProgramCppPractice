@@ -19,4 +19,5 @@ void main()
 	enum E{S,A,P};
 
 	cout << (int)A << endl;
+	char* p = reinterpret_cast<char*>(1000000);
 }
