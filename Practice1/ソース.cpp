@@ -16,8 +16,5 @@ void main()
 	int rows = 3; // s”
 	int cols = 4; // —ñ”
 
-	enum E{S,A,P};
 
-	cout << (int)A << endl;
-	char* p = reinterpret_cast<char*>(1000000);
 }
