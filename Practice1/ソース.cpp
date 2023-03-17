@@ -16,5 +16,9 @@ void main()
 	int rows = 3; // s”
 	int cols = 4; // —ñ”
 
-
+	union Value {
+		int i;
+		double d;
+		char c;
+	};
 }
