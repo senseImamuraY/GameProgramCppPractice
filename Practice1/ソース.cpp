@@ -1,8 +1,10 @@
-#include <cstdio>
+#include <cstdio> 
 #include<iostream>
 using namespace std;
 
-void main()
+#define FIVE_TIMES for(int i_=0; i_ < 5; ++i_)
+
+int main()
 {
 	signed char a = -1;
 	int b;
@@ -21,4 +23,10 @@ void main()
 		double d;
 		char c;
 	};
+
+	FIVE_TIMES{
+		cout << "‚±‚ñ‚É‚¿‚Í" << endl;
+	}
+	
+	return 0;
 }
